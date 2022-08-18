@@ -1,0 +1,94 @@
+.learnfromanywhere{
+    color: aqua;
+text-align: center;
+font-size: 3px;
+font-family: Arial, Helvetica, sans-serif;
+text-shadow: #f2f2f2;
+
+}
+.residence{
+    padding-left: 163px;
+}
+.fullname{
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+    width: 30%;
+}
+.password{
+    position: relative;
+    float: left;
+    width: 30%;
+
+}
+body{
+    background-color: rgba(123, 178, 192, 0.212);
+}
+
+form{
+    font-weight: bold;
+    color: black;
+    padding-left: 16%;
+}
+ 
+.register{
+    padding-left: 38%;
+    font-weight: bolder;
+    font-size: 160%;
+}
+
+.username{
+    padding-left: 70%
+    
+}
+.password1{
+    padding-left: 70%;
+}
+.submit1{
+    padding-left: 84%;
+}
+
+.CUSTOMER{
+    padding-left: 35%;
+}
+
+.copyrights{
+    font-size: 75%;
+    font-style: oblique;
+
+}
+.fullname1{
+    font-size: 105%;
+        background-color: lightgrey;
+        border-radius: 48px;
+        width: 75%;
+      background: #f2f2f2;
+      box-shadow:  5px 5px 10px rgba(119, 136, 153, 0.658), 
+                   5px 5px 10px rgba(119, 136, 153, 0.753);
+       margin-left: 230px;
+       height: 768px;
+      
+    }
+      
+.LOGIN{
+ padding-left: 84%;
+    color: antiquewhite;
+}
+
+.note{
+    color: lightgrey;;
+    font-weight: bolder;
+    font-size: 90%;
+font-style: normal;
+padding-left: 50px;
+}
+
+button{
+    border-radius: 18px;
+   font-size: 13px;
+   height:fit-content;
+   border-color: lightslategray;
+}
+.above18{
+    padding-right: 190px;
+}
