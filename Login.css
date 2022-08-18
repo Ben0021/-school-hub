@@ -1,0 +1,59 @@
+
+h1{
+  text-align: center;
+}
+p{
+  font-size: 14px;
+  color: lightseagreen;
+}
+
+.welcome{
+    padding-left: 40%;
+    font-size: 200%;
+    color: #97edf3;
+    text-transform: lowercase;
+}
+
+
+.LOGIN{
+    text-align: center;
+    background-color: beige;
+    border-radius: 30px;
+  width: 450px;
+  background:rgba(159, 182, 173, 0.384);
+  box-shadow:  5px -5px 10px 10px rgba(211, 211, 211, 0.24), 
+  -5px 5px 10px 10px rgba(211, 211, 211, 0.301); 
+    height:280px;
+margin-left: 35%;
+text-align: center;;
+outline-width: thin;
+background-image: url(/image.html/new\ on2.jpg);
+background-size: cover;
+}
+
+div p2{
+    text-align: left;
+}
+  
+  .customer{
+    color: blue;
+    font-size: 100%;
+  }
+  .copyrights{
+    font-size: 70%;
+  }
+ 
+.password{
+}
+
+.contact{
+  text-align: right;
+  border-width: 2px;
+}
+.reset{
+  border-width: 2px;
+}
+body{
+  background-image: url(/image.html/new\ on2.jpg);
+  background-size: cover;
+}
